@@ -1,0 +1,14 @@
+# we later use a json server to serve the UI later on 
+# we the following commands in there respective explanation 
+npm run build ( As a test of what we are going to be deploy at the end of the day )
+npm i -g serve (This is an Http Serve which was installed globally on the system )
+serve -s build -p 8000 (To test and run the production build on the browser locally at port 8000)
+
+
+npm install json-server 
+
+*************At the package.json *******************************************
+--under scripts we added the "server" line to it be able to run json-server 
+****************************************************************************
+npm run server 
+

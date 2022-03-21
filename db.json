@@ -1,0 +1,30 @@
+{
+  "tasks": [
+    {
+        "id": 1,
+        "text": "Appointment Day for Meeting",
+        "day": "Feb 25th 2021 at 2:30pm",
+        "reminder": true
+    },
+    {
+        "id": 1,
+        "text": "Cooperative Meeting",
+        "day": "Feb 27th 2021 at 2:30pm",
+        "reminder": true
+    },
+    {
+        "id": 1,
+        "text": "React Tutorials",
+        "day": "Jan 25th 2021 at 2:30pm",
+        "reminder": true
+    },
+    {
+        "id": 1,
+        "text": "Christmas Song",
+        "day": "Dec 25th 2021 at 2:30pm",
+        "reminder": true
+    }
+    
+  ]
+ 
+}
